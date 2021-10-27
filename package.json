@@ -1,5 +1,6 @@
 {
   "name": "sortingvisualizer",
+   "homepage":"https://Prap1.github.io/Sorting-Agorithm-Vizualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
