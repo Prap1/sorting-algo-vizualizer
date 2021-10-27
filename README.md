@@ -1,4 +1,4 @@
-#FOR VISITING WEBSITE 
+#Demo 
 https://prap1.github.io/sorting-algo-vizualizer/
 # Getting Started with Create React App
 
